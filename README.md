@@ -1,11 +1,10 @@
 h2 blog-test-mission
-h1 заголовок первого уровня
 =====================
 
 #### usage
 
-  `yarn install` or `npm install`
-  `npm run dev`
+  `yarn install` or `npm install`                                                                                                       
+  `npm run dev`                                                                                   
   
 #### custom routes
 
