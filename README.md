@@ -4,7 +4,7 @@ blog-test-mission
 #### usage
 
   `yarn install` or `npm install`          
-  now you must run you MongoDB and Redis servers 
+  now you must run you MongoDB and Redis servers                                                                                         
   `npm run dev`                                                                                   
   
 #### custom routes
